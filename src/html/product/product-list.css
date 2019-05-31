@@ -1,0 +1,11 @@
+.pubuliu { margin-top: 25px }
+.pubuliu ul { margin: 0;padding: 0;overflow: hidden;}
+.pubuliu ul li { list-style: none; width: 264.5px;float: left;margin-right: 20px;}
+.pubuliu ul li .detail { width: 100%;box-sizing: border-box;border:1px solid #eee }
+.pubuliu ul li .detail img { margin-bottom: 10px;width: 100% }
+.pubuliu ul li .detail p.dec { margin-left: 10px; }
+.pubuliu ul li .detail p a { color: #333;font-size: 15px; font-weight: 700;padding-left: 10px; cursor: pointer;}
+.pubuliu ul li .detail .time { width: 100%;height: 32px;box-sizing: border-box;border-top: 1px solid #eee;background: #f1f1f1 }
+.pubuliu ul li .detail .time p { margin-left: 10px;line-height: 32px;float: left;font-size: 12px; }
+.pubuliu ul li .detail .time a { float: right;line-height: 32px; color: #333;font-size: 12px;margin-right: 10px;}
+.pubuliu ul li .detail .time a:hover{ text-decoration: none }
